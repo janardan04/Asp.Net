@@ -1,0 +1,7 @@
+D:\.net\File_Handling\File_Handling\bin\Debug\File_Handling.exe.config
+D:\.net\File_Handling\File_Handling\bin\Debug\File_Handling.exe
+D:\.net\File_Handling\File_Handling\bin\Debug\File_Handling.pdb
+D:\.net\File_Handling\File_Handling\obj\Debug\File_Handling.csproj.AssemblyReference.cache
+D:\.net\File_Handling\File_Handling\obj\Debug\File_Handling.csproj.CoreCompileInputs.cache
+D:\.net\File_Handling\File_Handling\obj\Debug\File_Handling.exe
+D:\.net\File_Handling\File_Handling\obj\Debug\File_Handling.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Delegate_Op\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|d:\\.net\\delegate_op\\delegate_op\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|solutionrelative:delegate_op\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|d:\\.net\\delegate_op\\delegate_op\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|solutionrelative:delegate_op\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|d:\\.net\\delegate_op\\delegate_op\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE372D3-D1F6-4697-9E81-490488BAC80D}|Delegate_Op\\Delegate_Op.csproj|solutionrelative:delegate_op\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOperations.cs",
+              "DocumentMoniker": "D:\\.net\\Delegate_Op\\Delegate_Op\\MyOperations.cs",
+              "RelativeDocumentMoniker": "Delegate_Op\\MyOperations.cs",
+              "ToolTip": "D:\\.net\\Delegate_Op\\Delegate_Op\\MyOperations.cs",
+              "RelativeToolTip": "Delegate_Op\\MyOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:04:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\.net\\Delegate_Op\\Delegate_Op\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "Delegate_Op\\MyCustomException.cs",
+              "ToolTip": "D:\\.net\\Delegate_Op\\Delegate_Op\\MyCustomException.cs",
+              "RelativeToolTip": "Delegate_Op\\MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:03:58.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Delegate_Op\\Delegate_Op\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Op\\Program.cs",
+              "ToolTip": "D:\\.net\\Delegate_Op\\Delegate_Op\\Program.cs",
+              "RelativeToolTip": "Delegate_Op\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:57:13.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

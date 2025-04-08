@@ -1,0 +1,7 @@
+D:\.net\Delegate_Op\Delegate_Op\bin\Debug\Delegate_Op.exe.config
+D:\.net\Delegate_Op\Delegate_Op\bin\Debug\Delegate_Op.exe
+D:\.net\Delegate_Op\Delegate_Op\bin\Debug\Delegate_Op.pdb
+D:\.net\Delegate_Op\Delegate_Op\obj\Debug\Delegate_Op.csproj.AssemblyReference.cache
+D:\.net\Delegate_Op\Delegate_Op\obj\Debug\Delegate_Op.csproj.CoreCompileInputs.cache
+D:\.net\Delegate_Op\Delegate_Op\obj\Debug\Delegate_Op.exe
+D:\.net\Delegate_Op\Delegate_Op\obj\Debug\Delegate_Op.pdb

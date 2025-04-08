@@ -1,0 +1,7 @@
+D:\.net\Sum_num\Sum_num\bin\Debug\Sum_num.exe.config
+D:\.net\Sum_num\Sum_num\bin\Debug\Sum_num.exe
+D:\.net\Sum_num\Sum_num\bin\Debug\Sum_num.pdb
+D:\.net\Sum_num\Sum_num\obj\Debug\Sum_num.csproj.AssemblyReference.cache
+D:\.net\Sum_num\Sum_num\obj\Debug\Sum_num.csproj.CoreCompileInputs.cache
+D:\.net\Sum_num\Sum_num\obj\Debug\Sum_num.exe
+D:\.net\Sum_num\Sum_num\obj\Debug\Sum_num.pdb

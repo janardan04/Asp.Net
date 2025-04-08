@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\College_Fest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|d:\\.net\\college_fest\\college_fest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|solutionrelative:college_fest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|d:\\.net\\college_fest\\college_fest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|solutionrelative:college_fest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|d:\\.net\\college_fest\\college_fest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D929B72A-D467-4106-97D7-F24482211AB1}|College_Fest\\College_Fest.csproj|solutionrelative:college_fest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.net\\College_Fest\\College_Fest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "College_Fest\\Form1.Designer.cs",
+              "ToolTip": "D:\\.net\\College_Fest\\College_Fest\\Form1.Designer.cs",
+              "RelativeToolTip": "College_Fest\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:21:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.net\\College_Fest\\College_Fest\\Form1.cs",
+              "RelativeDocumentMoniker": "College_Fest\\Form1.cs",
+              "ToolTip": "D:\\.net\\College_Fest\\College_Fest\\Form1.cs",
+              "RelativeToolTip": "College_Fest\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:15:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\College_Fest\\College_Fest\\Form1.cs",
+              "RelativeDocumentMoniker": "College_Fest\\Form1.cs",
+              "ToolTip": "D:\\.net\\College_Fest\\College_Fest\\Form1.cs [Design]",
+              "RelativeToolTip": "College_Fest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:09:46.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

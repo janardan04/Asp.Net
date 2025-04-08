@@ -1,0 +1,16 @@
+D:\.net\College_Fest\College_Fest\bin\Debug\net8.0-windows\College_Fest.exe
+D:\.net\College_Fest\College_Fest\bin\Debug\net8.0-windows\College_Fest.deps.json
+D:\.net\College_Fest\College_Fest\bin\Debug\net8.0-windows\College_Fest.runtimeconfig.json
+D:\.net\College_Fest\College_Fest\bin\Debug\net8.0-windows\College_Fest.dll
+D:\.net\College_Fest\College_Fest\bin\Debug\net8.0-windows\College_Fest.pdb
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.Form1.resources
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.csproj.GenerateResource.cache
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.AssemblyInfoInputs.cache
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.AssemblyInfo.cs
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.csproj.CoreCompileInputs.cache
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.dll
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\refint\College_Fest.dll
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.pdb
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\College_Fest.genruntimeconfig.cache
+D:\.net\College_Fest\College_Fest\obj\Debug\net8.0-windows\ref\College_Fest.dll

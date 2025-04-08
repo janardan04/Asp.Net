@@ -1,0 +1,7 @@
+D:\.net\String_Shuffling\String_Shuffling\obj\Debug\String_Shuffling.csproj.AssemblyReference.cache
+D:\.net\String_Shuffling\String_Shuffling\obj\Debug\String_Shuffling.csproj.CoreCompileInputs.cache
+D:\.net\String_Shuffling\String_Shuffling\bin\Debug\String_Shuffling.exe.config
+D:\.net\String_Shuffling\String_Shuffling\bin\Debug\String_Shuffling.exe
+D:\.net\String_Shuffling\String_Shuffling\bin\Debug\String_Shuffling.pdb
+D:\.net\String_Shuffling\String_Shuffling\obj\Debug\String_Shuffling.exe
+D:\.net\String_Shuffling\String_Shuffling\obj\Debug\String_Shuffling.pdb

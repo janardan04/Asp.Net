@@ -1,0 +1,7 @@
+D:\.net\Math_sqrt\Math_sqrt\bin\Debug\Math_sqrt.exe.config
+D:\.net\Math_sqrt\Math_sqrt\bin\Debug\Math_sqrt.exe
+D:\.net\Math_sqrt\Math_sqrt\bin\Debug\Math_sqrt.pdb
+D:\.net\Math_sqrt\Math_sqrt\obj\Debug\Math_sqrt.csproj.AssemblyReference.cache
+D:\.net\Math_sqrt\Math_sqrt\obj\Debug\Math_sqrt.csproj.CoreCompileInputs.cache
+D:\.net\Math_sqrt\Math_sqrt\obj\Debug\Math_sqrt.exe
+D:\.net\Math_sqrt\Math_sqrt\obj\Debug\Math_sqrt.pdb

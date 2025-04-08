@@ -1,0 +1,7 @@
+D:\.net\LINQ_4\LINQ_4\bin\Debug\LINQ_4.exe.config
+D:\.net\LINQ_4\LINQ_4\bin\Debug\LINQ_4.exe
+D:\.net\LINQ_4\LINQ_4\bin\Debug\LINQ_4.pdb
+D:\.net\LINQ_4\LINQ_4\obj\Debug\LINQ_4.csproj.AssemblyReference.cache
+D:\.net\LINQ_4\LINQ_4\obj\Debug\LINQ_4.csproj.CoreCompileInputs.cache
+D:\.net\LINQ_4\LINQ_4\obj\Debug\LINQ_4.exe
+D:\.net\LINQ_4\LINQ_4\obj\Debug\LINQ_4.pdb
